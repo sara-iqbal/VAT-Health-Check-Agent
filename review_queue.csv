@@ -1,0 +1,232 @@
+txn_id,checks,vat_at_risk,invoice_date,counterparty,category,net_amount,vat_amount,explanation
+TXN-001328,reverse_charge_misuse,3491.94,2025-07-14,Harper-Atkinson,construction_services,17459.72,3491.94,"Transaction TXN-001328: Harper-Atkinson, invoice H-30603 dated 2025-07-14, net £17,459.72, VAT £3,491.94.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £3,491.94. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 3 of 22 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001828,reverse_charge_misuse,3326.41,2025-11-15,Thomas and Sons,construction_services,16632.05,3326.41,"Transaction TXN-001828: Thomas and Sons, invoice TAS-73672 dated 2025-11-15, net £16,632.05, VAT £3,326.41.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £3,326.41. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 4 of 21 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001171,reverse_charge_misuse,3062.02,2025-06-08,"Hughes, Davey and Taylor",construction_services,15310.11,3062.02,"Transaction TXN-001171: Hughes, Davey and Taylor, invoice HDA-52243 dated 2025-06-08, net £15,310.11, VAT £3,062.02.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £3,062.02. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 5 of 15 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000910,reverse_charge_misuse,2905.74,2025-04-28,Simpson Group,construction_services,14528.72,2905.74,"Transaction TXN-000910: Simpson Group, invoice SG-40721 dated 2025-04-28, net £14,528.72, VAT £2,905.74.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £2,905.74. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 2 of 17 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000474,reverse_charge_misuse,1989.72,2025-07-21,Griffiths LLC,construction_services,9948.58,1989.72,"Transaction TXN-000474: Griffiths LLC, invoice GL-36888 dated 2025-07-21, net £9,948.58, VAT £1,989.72.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £1,989.72. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 2 of 18 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000513,invalid_vat_number,1867.27,2025-09-12,Anderson Group,professional_fees,9336.36,1867.27,"Transaction TXN-000513: Anderson Group, invoice AG-40816 dated 2025-09-12, net £9,336.36, VAT £1,867.27.
+Issue: Missing or invalid supplier VAT number. Input VAT claimed but supplier VAT number GB554849314 fails the checksum. VAT at risk: £1,867.27. Rule: HMRC VAT Notice 700 (The VAT Guide): VAT invoices and the supplier's VAT number. Suggested action: Check the supplier's VAT number with the GOV.UK checker and hold the VAT claim until it is confirmed.
+Supplier context: 3 of 28 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-002015,duplicate_invoice,1683.0,2025-05-15,Clarke Group,construction_services,8415.0,1683.0,"Transaction TXN-002015: Clarke Group, invoice CG57231 dated 2025-05-15, net £8,415.00, VAT £1,683.00.
+Issue: Possible duplicate invoice. Same supplier, invoice number and amount as TXN-000932. VAT at risk: £1,683.00. Rule: Internal control check: duplicate postings overstate input VAT. Suggested action: Confirm the invoice was posted twice, then reverse the duplicate entry.
+Supplier context: 2 of 22 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001256,reverse_charge_misuse,1336.95,2025-10-16,"Lawson, Webster and Turner",construction_services,6684.76,1336.95,"Transaction TXN-001256: Lawson, Webster and Turner, invoice LWA-86461 dated 2025-10-16, net £6,684.76, VAT £1,336.95.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £1,336.95. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 3 of 11 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001157,reverse_charge_misuse,1192.45,2025-01-16,Young-Graham,construction_services,5962.25,1192.45,"Transaction TXN-001157: Young-Graham, invoice Y-56020 dated 2025-01-16, net £5,962.25, VAT £1,192.45.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £1,192.45. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 3 of 18 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000338,invalid_vat_number,1154.84,2025-01-07,"Griffiths, Cox and Smith",construction_services,5774.22,1154.84,"Transaction TXN-000338: Griffiths, Cox and Smith, invoice GCA-53181 dated 2025-01-07, net £5,774.22, VAT £1,154.84.
+Issue: Missing or invalid supplier VAT number. Input VAT claimed but supplier VAT number GB072448049 fails the checksum. VAT at risk: £1,154.84. Rule: HMRC VAT Notice 700 (The VAT Guide): VAT invoices and the supplier's VAT number. Suggested action: Check the supplier's VAT number with the GOV.UK checker and hold the VAT claim until it is confirmed.
+Supplier context: 3 of 19 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000717,reverse_charge_misuse,960.0,2025-12-17,Fox and Sons,construction_services,4799.98,960.0,"Transaction TXN-000717: Fox and Sons, invoice FAS-40111 dated 2025-12-17, net £4,799.98, VAT £960.00.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £960.00. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 2 of 15 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000289,reverse_charge_misuse,765.84,2025-06-22,"Lawson, Webster and Turner",construction_services,3829.2,765.84,"Transaction TXN-000289: Lawson, Webster and Turner, invoice LWA-96482 dated 2025-06-22, net £3,829.20, VAT £765.84.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £765.84. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 3 of 11 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-002017,duplicate_invoice,763.48,2025-04-24,"Holmes, Lloyd and Duncan",professional_fees,3817.41,763.48,"Transaction TXN-002017: Holmes, Lloyd and Duncan, invoice HLA-32545 dated 2025-04-24, net £3,817.41, VAT £763.48.
+Issue: Possible duplicate invoice. Same supplier, invoice number and amount as TXN-001024. VAT at risk: £763.48. Rule: Internal control check: duplicate postings overstate input VAT. Suggested action: Confirm the invoice was posted twice, then reverse the duplicate entry.
+Supplier context: 2 of 21 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000893,reverse_charge_misuse,702.73,2025-06-05,"Oliver, White and Stevens",construction_services,3513.64,702.73,"Transaction TXN-000893: Oliver, White and Stevens, invoice OWA-49492 dated 2025-06-05, net £3,513.64, VAT £702.73.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £702.73. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 5 of 19 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000628,reverse_charge_misuse,671.71,2025-12-20,Bates-Glover,construction_services,3358.55,671.71,"Transaction TXN-000628: Bates-Glover, invoice B-61345 dated 2025-12-20, net £3,358.55, VAT £671.71.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £671.71. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 5 of 27 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001952,reverse_charge_misuse,633.55,2025-12-19,"Hawkins, McLean and Lynch",construction_services,3167.74,633.55,"Transaction TXN-001952: Hawkins, McLean and Lynch, invoice HMA-55334 dated 2025-12-19, net £3,167.74, VAT £633.55.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £633.55. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 4 of 21 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001906,reverse_charge_misuse,630.02,2025-05-19,"Oliver, White and Stevens",construction_services,3150.1,630.02,"Transaction TXN-001906: Oliver, White and Stevens, invoice OWA-35609 dated 2025-05-19, net £3,150.10, VAT £630.02.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £630.02. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 5 of 19 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000974,invalid_vat_number,587.54,2025-09-12,Young-Graham,equipment,2937.72,587.54,"Transaction TXN-000974: Young-Graham, invoice Y-28130 dated 2025-09-12, net £2,937.72, VAT £587.54.
+Issue: Missing or invalid supplier VAT number. Input VAT claimed but supplier VAT number GB477959113 fails the checksum. VAT at risk: £587.54. Rule: HMRC VAT Notice 700 (The VAT Guide): VAT invoices and the supplier's VAT number. Suggested action: Check the supplier's VAT number with the GOV.UK checker and hold the VAT claim until it is confirmed.
+Supplier context: 3 of 18 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001717,reverse_charge_misuse,580.58,2025-12-07,Warner-Palmer,construction_services,2902.89,580.58,"Transaction TXN-001717: Warner-Palmer, invoice W-84047 dated 2025-12-07, net £2,902.89, VAT £580.58.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £580.58. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 5 of 24 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001325,reverse_charge_misuse,578.91,2025-01-10,Bates-Glover,construction_services,2894.54,578.91,"Transaction TXN-001325: Bates-Glover, invoice B-57109 dated 2025-01-10, net £2,894.54, VAT £578.91.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £578.91. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 5 of 27 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001088,reverse_charge_misuse,578.75,2025-08-24,Lamb-Scott,construction_services,2893.73,578.75,"Transaction TXN-001088: Lamb-Scott, invoice L-77944 dated 2025-08-24, net £2,893.73, VAT £578.75.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £578.75. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 3 of 16 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001309,invalid_vat_number,577.2,2025-11-27,Anderson Group,professional_fees,2886.01,577.2,"Transaction TXN-001309: Anderson Group, invoice AG-11766 dated 2025-11-27, net £2,886.01, VAT £577.20.
+Issue: Missing or invalid supplier VAT number. Input VAT claimed but supplier VAT number GB594829314 fails the checksum. VAT at risk: £577.20. Rule: HMRC VAT Notice 700 (The VAT Guide): VAT invoices and the supplier's VAT number. Suggested action: Check the supplier's VAT number with the GOV.UK checker and hold the VAT claim until it is confirmed.
+Supplier context: 3 of 28 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001803,wrong_rate,563.03,2025-01-21,"May, Cunningham and Jones",marketing,2815.16,0.0,"Transaction TXN-001803: May, Cunningham and Jones, invoice MCA-15911 dated 2025-01-21, net £2,815.16, VAT £0.00.
+Issue: Wrong VAT rate. Charged 0% on 'marketing' but the correct rate is 20%. VAT at risk: £563.03. Rule: HMRC VAT Notice 700 (The VAT Guide): rates of VAT. Suggested action: Confirm the correct rate for this supply and ask the supplier for a corrected invoice if needed.
+Supplier context: 5 of 22 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-000004,reverse_charge_misuse,528.57,2025-07-18,"Oliver, White and Stevens",construction_services,2642.84,528.57,"Transaction TXN-000004: Oliver, White and Stevens, invoice OWA-20972 dated 2025-07-18, net £2,642.84, VAT £528.57.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £528.57. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 5 of 19 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-001431,reverse_charge_misuse,526.77,2025-02-11,"Phillips, Cross and Miah",construction_services,2633.83,526.77,"Transaction TXN-001431: Phillips, Cross and Miah, invoice PCA-35536 dated 2025-02-11, net £2,633.83, VAT £526.77.
+Issue: VAT charged where the domestic reverse charge applies. Supplier charged VAT, but under the reverse charge the buyer should account for it instead. VAT at risk: £526.77. Rule: HMRC VAT Notice 735: Domestic reverse charge for building and construction services. Suggested action: Ask the supplier to reissue the invoice without VAT and account for the VAT through the reverse charge.
+Supplier context: 3 of 18 transactions with this supplier are flagged.
+A human reviewer must confirm before any change is made."
+TXN-002010,duplicate_invoice,481.49,2025-12-08,Smith-Smith,equipment,2407.45,481.49,
+TXN-002014,duplicate_invoice,467.11,2025-08-06,"Matthews, Lloyd and Turner",marketing,2335.54,467.11,
+TXN-000036,invalid_vat_number,465.14,2025-12-02,"Norman, Hopkins and Oliver",marketing,2325.7,465.14,
+TXN-001267,reverse_charge_misuse,459.52,2025-02-17,Alexander-Collins,construction_services,2297.6,459.52,
+TXN-001947,reverse_charge_misuse,446.83,2025-01-04,Warner-Palmer,construction_services,2234.13,446.83,
+TXN-000535,invalid_vat_number,410.96,2025-09-15,Robinson-Davis,marketing,2054.78,410.96,
+TXN-000501,reverse_charge_misuse,366.22,2025-12-06,"Oliver, White and Stevens",construction_services,1831.08,366.22,
+TXN-001172,reverse_charge_misuse,343.59,2025-02-05,"Allen, Smith and Jones",construction_services,1717.97,343.59,
+TXN-001762,invalid_vat_number,330.31,2025-01-06,"Quinn, Hammond and Yates",software_subscription,1651.57,330.31,
+TXN-000576,reverse_charge_misuse,316.93,2025-11-18,Griffiths LLC,construction_services,1584.66,316.93,
+TXN-001433,reverse_charge_misuse,277.1,2025-11-08,Bruce-Smith,construction_services,1385.52,277.1,
+TXN-000095,wrong_rate,257.26,2025-02-04,Martin-Thomson,consulting_services,1715.1,85.76,
+TXN-000678,invalid_vat_number,220.8,2025-08-19,Stewart PLC,professional_fees,1103.99,220.8,
+TXN-002023,duplicate_invoice,197.4,2025-06-18,Taylor LLC,equipment,987.01,197.4,
+TXN-002026,duplicate_invoice,195.85,2025-04-01,Thomas and Sons,professional_fees,979.26,195.85,
+TXN-000179,invalid_vat_number,192.44,2025-05-26,"Hughes, Davey and Taylor",equipment,962.18,192.44,
+TXN-000402,arithmetic_error,191.95,2025-10-07,Young-Graham,marketing,1656.07,139.26,
+TXN-001894,arithmetic_error,189.87,2025-07-11,Baker-Butler,professional_fees,418.81,-106.11,
+TXN-002019,duplicate_invoice,184.88,2025-06-06,"Matthews, Lloyd and Turner",equipment,924.41,184.88,
+TXN-000421,arithmetic_error,171.17,2025-08-05,"Young, Evans and Lucas",professional_fees,2385.06,305.84,
+TXN-000450,reverse_charge_misuse,167.52,2025-04-20,"Phillips, Cross and Miah",construction_services,837.61,167.52,
+TXN-001500,invalid_vat_number,167.32,2025-03-08,"O'Brien, Hill and Jenkins",software_subscription,836.59,167.32,
+TXN-001174,arithmetic_error,158.52,2025-04-04,Warner-Palmer,software_subscription,498.66,99.73,
+TXN-000148,arithmetic_error,155.55,2025-12-09,"Lee, Marsden and Evans",marketing,808.36,317.22,
+TXN-001252,wrong_rate,149.84,2025-04-20,"Kaur, Quinn and Wright",professional_fees,749.18,0.0,
+TXN-001683,arithmetic_error,146.46,2025-05-21,"Smith, Webb and Porter",consulting_services,1882.73,230.09,
+TXN-000808,reverse_charge_misuse,137.82,2025-03-24,"Hughes, Davey and Taylor",construction_services,689.08,137.82,
+TXN-001350,arithmetic_error,137.1,2025-10-17,Thomas and Sons,software_subscription,672.53,-2.59,
+TXN-000437,arithmetic_error,136.88,2025-04-27,Wilson Inc,construction_services,2227.79,445.56,
+TXN-001062,arithmetic_error,135.82,2025-08-23,"Lawson, Webster and Turner",software_subscription,362.26,72.45,
+TXN-000436,arithmetic_error,127.25,2025-10-31,"Griffiths, Cox and Smith",office_supplies,446.83,-37.88,
+TXN-002013,duplicate_invoice,122.08,2025-04-28,Wilson Inc,professional_fees,610.38,122.08,
+TXN-000669,wrong_rate,118.17,2025-11-13,Powell PLC,professional_fees,590.87,0.0,
+TXN-000069,arithmetic_error,116.04,2025-03-09,Murray Ltd,professional_fees,808.53,161.71,
+TXN-001634,wrong_rate,113.92,2025-12-13,"Holmes, Lloyd and Duncan",equipment,569.61,0.0,
+TXN-001702,invalid_vat_number,113.66,2025-09-01,Townsend Inc,equipment,568.29,113.66,
+TXN-002008,duplicate_invoice,111.99,2025-03-31,"Phillips, Cross and Miah",marketing,559.97,111.99,
+TXN-001405,invalid_vat_number,111.04,2025-03-17,Griffiths-Williams,software_subscription,555.21,111.04,
+TXN-000914,arithmetic_error,110.01,2025-10-20,"Jones, Bell and Hill",software_licences,763.49,152.7,
+TXN-001465,blocked_input_tax,98.86,2025-10-08,"Norman, Hopkins and Oliver",client_entertainment,494.29,98.86,
+TXN-000698,arithmetic_error,97.75,2025-11-05,Johnson Ltd,professional_fees,1657.76,429.3,
+TXN-002007,duplicate_invoice,97.7,2025-07-24,"Thomson, Wilkinson and Smith",telecoms,488.48,97.7,
+TXN-000806,blocked_input_tax,96.05,2025-07-05,Powell PLC,client_entertainment,480.25,96.05,
+TXN-001833,arithmetic_error,94.4,2025-03-31,"Smith, Knight and Carpenter",marketing,407.88,81.58,
+TXN-002003,duplicate_invoice,93.26,2025-09-21,Powell PLC,software_subscription,466.29,93.26,
+TXN-001611,arithmetic_error,91.55,2025-12-14,Bates-Glover,professional_fees,758.3,151.66,
+TXN-000293,arithmetic_error,86.25,2025-06-07,"Young, Evans and Lucas",marketing,660.95,218.44,
+TXN-001369,blocked_input_tax,84.56,2025-08-17,Harper-Atkinson,client_entertainment,422.79,84.56,
+TXN-002004,duplicate_invoice,82.99,2025-11-07,Fox and Sons,professional_fees,414.94,82.99,
+TXN-001397,invalid_vat_number,81.04,2025-07-20,"Patel, Lyons and Price",office_supplies,405.18,81.04,
+TXN-001824,arithmetic_error,76.27,2025-11-09,Wilson LLC,telecoms,151.56,-45.96,
+TXN-002001,duplicate_invoice,74.29,2025-03-22,Bates-Glover,office_supplies,371.47,74.29,
+TXN-001572,blocked_input_tax,72.56,2025-01-17,"Griffiths, Cox and Smith",client_entertainment,362.81,72.56,
+TXN-001428,wrong_rate,71.04,2025-04-04,Fisher Ltd,software_subscription,355.2,0.0,
+TXN-001136,invalid_vat_number,66.57,2025-02-24,Pritchard and Sons,marketing,332.85,66.57,
+TXN-000389,blocked_input_tax,63.42,2025-11-24,Anderson-Cooper,client_entertainment,317.1,63.42,
+TXN-001321,blocked_input_tax,62.3,2025-05-23,"O'Brien, Hill and Jenkins",client_entertainment,311.49,62.3,
+TXN-000757,blocked_input_tax,54.41,2025-06-23,Pritchard and Sons,client_entertainment,272.07,54.41,
+TXN-001876,invalid_vat_number,53.35,2025-01-19,Smith-Smith,software_subscription,266.74,53.35,
+TXN-001784,blocked_input_tax,53.12,2025-09-30,"Thomson, Wilkinson and Smith",client_entertainment,265.59,53.12,
+TXN-000325,arithmetic_error,53.03,2025-01-27,"Kaur, Quinn and Wright",marketing,321.41,64.28,
+TXN-001823,invalid_vat_number,47.01,2025-11-19,Murray Ltd,office_supplies,235.03,47.01,
+TXN-000405,invalid_vat_number,45.05,2025-10-01,Stewart PLC,telecoms,225.26,45.05,
+TXN-002012,duplicate_invoice,43.78,2025-07-04,Stewart PLC,telecoms,218.88,43.78,
+TXN-002022,duplicate_invoice,42.96,2025-05-23,"May, Cunningham and Jones",marketing,214.82,42.96,
+TXN-001790,blocked_input_tax,42.74,2025-03-03,Powell PLC,client_entertainment,213.69,42.74,
+TXN-001592,blocked_input_tax,42.33,2025-10-21,"Hawkins, McLean and Lynch",client_entertainment,211.66,42.33,
+TXN-000574,wrong_rate,41.99,2025-07-07,"Oliver, White and Stevens",equipment,279.89,13.99,
+TXN-000796,arithmetic_error,41.68,2025-06-11,Cox and Sons,childrens_car_seats,119.84,47.67,
+TXN-000629,blocked_input_tax,38.75,2025-04-12,"Hughes, Davey and Taylor",client_entertainment,193.75,38.75,
+TXN-000929,blocked_input_tax,36.83,2025-12-02,"Hughes, Davey and Taylor",client_entertainment,184.14,36.83,
+TXN-000260,invalid_vat_number,34.2,2025-02-28,Harper-Atkinson,telecoms,170.98,34.2,
+TXN-001126,arithmetic_error,33.81,2025-07-05,Hunt Inc,software_licences,2876.8,609.17,
+TXN-001242,invalid_vat_number,32.76,2025-07-20,"Hawkins, McLean and Lynch",telecoms,163.78,32.76,
+TXN-001664,blocked_input_tax,31.75,2025-06-11,"Lee, Marsden and Evans",client_entertainment,158.74,31.75,
+TXN-000632,blocked_input_tax,30.66,2025-10-19,"Patel, Lyons and Price",client_entertainment,153.32,30.66,
+TXN-000248,blocked_input_tax,30.3,2025-07-28,"Patel, Lyons and Price",client_entertainment,151.5,30.3,
+TXN-000469,arithmetic_error,29.24,2025-11-22,"Fisher, Sykes and Thomas",software_licences,3489.96,668.75,
+TXN-002025,duplicate_invoice,28.82,2025-05-16,Bates-Glover,telecoms,144.09,28.82,
+TXN-001818,arithmetic_error,28.64,2025-06-06,Sutton and Sons,software_licences,850.76,198.79,
+TXN-002005,duplicate_invoice,28.01,2025-03-22,"Moore, Smith and Jackson",software_subscription,140.07,28.01,
+TXN-000337,blocked_input_tax,27.79,2025-06-15,Lamb-Scott,client_entertainment,138.94,27.79,
+TXN-001488,invalid_vat_number,26.53,2025-04-04,Pritchard and Sons,office_supplies,132.67,26.53,
+TXN-002009,duplicate_invoice,26.37,2025-11-29,"Turner, Hill and Coates",telecoms,131.84,26.37,
+TXN-000771,blocked_input_tax,25.56,2025-11-15,Lamb-Scott,client_entertainment,127.78,25.56,
+TXN-001287,blocked_input_tax,25.53,2025-11-11,"Young, Myers and Read",client_entertainment,127.63,25.53,
+TXN-000653,blocked_input_tax,24.63,2025-03-11,"Quinn, Hammond and Yates",client_entertainment,123.16,24.63,
+TXN-001058,arithmetic_error,24.61,2025-05-09,"Jones, Powell and Wood",software_subscription,274.93,30.38,
+TXN-001923,wrong_rate,23.47,2025-04-24,Moss-Armstrong,childrens_clothing,117.36,23.47,
+TXN-001907,wrong_rate,23.09,2025-07-29,"Hodgson, Saunders and Mitchell",childrens_car_seats,153.97,30.79,
+TXN-000485,blocked_input_tax,22.9,2025-12-08,Anderson Group,client_entertainment,114.49,22.9,
+TXN-002020,duplicate_invoice,22.65,2025-02-28,Robinson-Davis,telecoms,113.27,22.65,
+TXN-000804,invalid_vat_number,21.13,2025-02-14,Warner-Palmer,telecoms,105.63,21.13,
+TXN-001220,wrong_rate,19.15,2025-01-06,Sutton-Coles,childrens_clothing,95.74,19.15,
+TXN-002018,duplicate_invoice,18.77,2025-11-17,Baker-Butler,telecoms,93.83,18.77,
+TXN-001934,blocked_input_tax,18.24,2025-01-04,Thomas and Sons,client_entertainment,91.18,18.24,
+TXN-001603,invalid_vat_number,17.96,2025-10-30,Taylor LLC,telecoms,89.79,17.96,
+TXN-001049,invalid_vat_number,16.9,2025-06-11,"Patel, Lyons and Price",office_supplies,84.51,16.9,
+TXN-000465,blocked_input_tax,16.76,2025-04-04,"May, Cunningham and Jones",client_entertainment,83.78,16.76,
+TXN-001401,invalid_vat_number,16.38,2025-11-24,Fisher Ltd,software_subscription,81.89,16.38,
+TXN-001519,blocked_input_tax,16.15,2025-01-21,"Jones, Powell and Wood",client_entertainment,80.75,16.15,
+TXN-001208,wrong_rate,16.09,2025-11-30,"Hawkins, McLean and Lynch",telecoms,107.32,5.37,
+TXN-001831,arithmetic_error,15.36,2025-05-13,Reed and Sons,office_supplies,189.37,53.23,
+TXN-001544,arithmetic_error,15.1,2025-03-28,"Young, Evans and Lucas",client_entertainment,45.95,-5.91,
+TXN-002011,duplicate_invoice,13.99,2025-01-29,Wilson LLC,telecoms,69.93,13.99,
+TXN-000810,invalid_vat_number,13.91,2025-03-29,Taylor LLC,office_supplies,69.54,13.91,
+TXN-002021,duplicate_invoice,13.59,2025-12-11,"Allen, Smith and Jones",office_supplies,67.94,13.59,
+TXN-000189,arithmetic_error,13.58,2025-06-20,"May, Cunningham and Jones",telecoms,54.21,-2.74,
+TXN-002016,duplicate_invoice,12.82,2025-10-01,Taylor LLC,telecoms,64.09,12.82,
+TXN-002002,duplicate_invoice,12.69,2025-07-30,Elliott PLC,office_supplies,63.45,12.69,
+TXN-000826,blocked_input_tax,12.23,2025-01-03,Clarke Group,client_entertainment,61.15,12.23,
+TXN-000841,wrong_rate,12.22,2025-01-29,Hudson-Martin,childrens_car_seats,81.44,16.29,
+TXN-002024,duplicate_invoice,12.2,2025-07-31,Simpson Group,software_subscription,61.01,12.2,
+TXN-000848,wrong_rate,11.02,2025-09-21,"Webb, Shaw and Pritchard",childrens_car_seats,73.46,14.69,
+TXN-001902,invalid_vat_number,10.68,2025-10-15,"Lee, Marsden and Evans",telecoms,53.42,10.68,
+TXN-000008,wrong_rate,10.45,2025-09-06,Warner-Palmer,printed_books,52.25,10.45,
+TXN-001463,blocked_input_tax,10.37,2025-05-17,Johnson Ltd,client_entertainment,51.83,10.37,
+TXN-001143,wrong_rate,9.86,2025-06-29,"Kaur, Quinn and Wright",printed_books,49.3,9.86,
+TXN-002006,duplicate_invoice,9.48,2025-09-29,"May, Cunningham and Jones",office_supplies,47.38,9.48,
+TXN-000868,wrong_rate,9.14,2025-11-07,"Webb, Shaw and Pritchard",childrens_clothing,182.79,9.14,
+TXN-001560,wrong_rate,9.01,2025-06-16,"Smith, Wright and Bibi",childrens_car_seats,180.28,0.0,
+TXN-000324,wrong_rate,8.62,2025-08-24,"Taylor, Ahmed and Howarth",childrens_clothing,43.09,8.62,
+TXN-001189,blocked_input_tax,8.15,2025-03-09,Wilson LLC,client_entertainment,40.73,8.15,
+TXN-000506,wrong_rate,7.39,2025-09-25,Taylor LLC,printed_books,147.87,7.39,
+TXN-000214,wrong_rate,5.86,2025-12-07,Davies Inc,printed_books,29.3,5.86,
+TXN-000926,wrong_rate,3.81,2025-08-27,Cox PLC,childrens_clothing,76.17,3.81,
+TXN-000839,wrong_rate,3.18,2025-07-22,Stewart PLC,printed_books,63.55,3.18,
+TXN-000965,wrong_rate,2.75,2025-03-04,Robinson-Davis,printed_books,55.08,2.75,
+TXN-001299,wrong_rate,2.26,2025-06-05,"Griffiths, Carr and Taylor",childrens_clothing,45.25,2.26,
+TXN-001222,wrong_rate,1.43,2025-04-03,Rees Inc,printed_books,28.53,1.43,
+TXN-000359,wrong_rate,1.42,2025-11-17,Alexander-Collins,printed_books,28.35,1.42,

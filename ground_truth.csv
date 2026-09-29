@@ -1,0 +1,157 @@
+txn_id,error_type,error_detail,vat_at_risk
+TXN-000359,wrong_rate,Charged 5%; correct rate is 0%,1.42
+TXN-001803,wrong_rate,Charged 0%; correct rate is 20%,563.03
+TXN-000214,wrong_rate,Charged 20%; correct rate is 0%,5.86
+TXN-001428,wrong_rate,Charged 0%; correct rate is 20%,71.04
+TXN-000926,wrong_rate,Charged 5%; correct rate is 0%,3.81
+TXN-000506,wrong_rate,Charged 5%; correct rate is 0%,7.39
+TXN-001143,wrong_rate,Charged 20%; correct rate is 0%,9.86
+TXN-000848,wrong_rate,Charged 20%; correct rate is 5%,11.02
+TXN-001907,wrong_rate,Charged 20%; correct rate is 5%,23.09
+TXN-000669,wrong_rate,Charged 0%; correct rate is 20%,118.17
+TXN-000008,wrong_rate,Charged 20%; correct rate is 0%,10.45
+TXN-000868,wrong_rate,Charged 5%; correct rate is 0%,9.14
+TXN-000574,wrong_rate,Charged 5%; correct rate is 20%,41.99
+TXN-001634,wrong_rate,Charged 0%; correct rate is 20%,113.92
+TXN-000965,wrong_rate,Charged 5%; correct rate is 0%,2.75
+TXN-001220,wrong_rate,Charged 20%; correct rate is 0%,19.15
+TXN-001560,wrong_rate,Charged 0%; correct rate is 5%,9.01
+TXN-000324,wrong_rate,Charged 20%; correct rate is 0%,8.62
+TXN-000841,wrong_rate,Charged 20%; correct rate is 5%,12.22
+TXN-001923,wrong_rate,Charged 20%; correct rate is 0%,23.47
+TXN-000095,wrong_rate,Charged 5%; correct rate is 20%,257.26
+TXN-001252,wrong_rate,Charged 0%; correct rate is 20%,149.84
+TXN-001222,wrong_rate,Charged 5%; correct rate is 0%,1.43
+TXN-001299,wrong_rate,Charged 5%; correct rate is 0%,2.26
+TXN-000839,wrong_rate,Charged 5%; correct rate is 0%,3.18
+TXN-001208,wrong_rate,Charged 5%; correct rate is 20%,16.09
+TXN-001500,invalid_vat_number,Supplier VAT number fails checksum,167.32
+TXN-000810,invalid_vat_number,Supplier VAT number fails checksum,13.91
+TXN-001242,invalid_vat_number,VAT claimed with no supplier VAT number,32.76
+TXN-000974,invalid_vat_number,Supplier VAT number fails checksum,587.54
+TXN-001397,invalid_vat_number,VAT claimed with no supplier VAT number,81.04
+TXN-001136,invalid_vat_number,VAT claimed with no supplier VAT number,66.57
+TXN-000535,invalid_vat_number,Supplier VAT number fails checksum,410.96
+TXN-000405,invalid_vat_number,Supplier VAT number fails checksum,45.05
+TXN-000036,invalid_vat_number,VAT claimed with no supplier VAT number,465.14
+TXN-001876,invalid_vat_number,Supplier VAT number fails checksum,53.35
+TXN-001309,invalid_vat_number,Supplier VAT number fails checksum,577.2
+TXN-001405,invalid_vat_number,VAT claimed with no supplier VAT number,111.04
+TXN-000804,invalid_vat_number,VAT claimed with no supplier VAT number,21.13
+TXN-001603,invalid_vat_number,Supplier VAT number fails checksum,17.96
+TXN-000179,invalid_vat_number,Supplier VAT number fails checksum,192.44
+TXN-001762,invalid_vat_number,VAT claimed with no supplier VAT number,330.31
+TXN-001049,invalid_vat_number,VAT claimed with no supplier VAT number,16.9
+TXN-001401,invalid_vat_number,Supplier VAT number fails checksum,16.38
+TXN-001823,invalid_vat_number,Supplier VAT number fails checksum,47.01
+TXN-000678,invalid_vat_number,VAT claimed with no supplier VAT number,220.8
+TXN-000513,invalid_vat_number,Supplier VAT number fails checksum,1867.27
+TXN-001702,invalid_vat_number,VAT claimed with no supplier VAT number,113.66
+TXN-000338,invalid_vat_number,Supplier VAT number fails checksum,1154.84
+TXN-001488,invalid_vat_number,Supplier VAT number fails checksum,26.53
+TXN-000260,invalid_vat_number,Supplier VAT number fails checksum,34.2
+TXN-001902,invalid_vat_number,VAT claimed with no supplier VAT number,10.68
+TXN-000806,blocked_input_tax,Input VAT claimed on client entertainment,96.05
+TXN-001790,blocked_input_tax,Input VAT claimed on client entertainment,42.74
+TXN-001572,blocked_input_tax,Input VAT claimed on client entertainment,72.56
+TXN-001465,blocked_input_tax,Input VAT claimed on client entertainment,98.86
+TXN-000771,blocked_input_tax,Input VAT claimed on client entertainment,25.56
+TXN-000632,blocked_input_tax,Input VAT claimed on client entertainment,30.66
+TXN-000826,blocked_input_tax,Input VAT claimed on client entertainment,12.23
+TXN-000248,blocked_input_tax,Input VAT claimed on client entertainment,30.3
+TXN-001189,blocked_input_tax,Input VAT claimed on client entertainment,8.15
+TXN-001934,blocked_input_tax,Input VAT claimed on client entertainment,18.24
+TXN-001784,blocked_input_tax,Input VAT claimed on client entertainment,53.12
+TXN-001592,blocked_input_tax,Input VAT claimed on client entertainment,42.33
+TXN-000485,blocked_input_tax,Input VAT claimed on client entertainment,22.9
+TXN-000389,blocked_input_tax,Input VAT claimed on client entertainment,63.42
+TXN-000653,blocked_input_tax,Input VAT claimed on client entertainment,24.63
+TXN-001369,blocked_input_tax,Input VAT claimed on client entertainment,84.56
+TXN-000465,blocked_input_tax,Input VAT claimed on client entertainment,16.76
+TXN-001287,blocked_input_tax,Input VAT claimed on client entertainment,25.53
+TXN-000757,blocked_input_tax,Input VAT claimed on client entertainment,54.41
+TXN-001321,blocked_input_tax,Input VAT claimed on client entertainment,62.3
+TXN-000629,blocked_input_tax,Input VAT claimed on client entertainment,38.75
+TXN-000337,blocked_input_tax,Input VAT claimed on client entertainment,27.79
+TXN-000929,blocked_input_tax,Input VAT claimed on client entertainment,36.83
+TXN-001519,blocked_input_tax,Input VAT claimed on client entertainment,16.15
+TXN-001463,blocked_input_tax,Input VAT claimed on client entertainment,10.37
+TXN-001664,blocked_input_tax,Input VAT claimed on client entertainment,31.75
+TXN-001062,arithmetic_error,Gross does not equal net + VAT,135.82
+TXN-000325,arithmetic_error,Gross does not equal net + VAT,53.03
+TXN-000148,arithmetic_error,VAT amount does not equal net x rate,155.55
+TXN-001833,arithmetic_error,Gross does not equal net + VAT,94.4
+TXN-001350,arithmetic_error,VAT amount does not equal net x rate,137.1
+TXN-001818,arithmetic_error,VAT amount does not equal net x rate,28.64
+TXN-000189,arithmetic_error,VAT amount does not equal net x rate,13.58
+TXN-000293,arithmetic_error,VAT amount does not equal net x rate,86.25
+TXN-001611,arithmetic_error,Gross does not equal net + VAT,91.55
+TXN-001544,arithmetic_error,VAT amount does not equal net x rate,15.1
+TXN-001683,arithmetic_error,VAT amount does not equal net x rate,146.46
+TXN-001174,arithmetic_error,Gross does not equal net + VAT,158.52
+TXN-001058,arithmetic_error,VAT amount does not equal net x rate,24.61
+TXN-001894,arithmetic_error,VAT amount does not equal net x rate,189.87
+TXN-000796,arithmetic_error,VAT amount does not equal net x rate,41.68
+TXN-000469,arithmetic_error,VAT amount does not equal net x rate,29.24
+TXN-001824,arithmetic_error,VAT amount does not equal net x rate,76.27
+TXN-000402,arithmetic_error,VAT amount does not equal net x rate,191.95
+TXN-000698,arithmetic_error,VAT amount does not equal net x rate,97.75
+TXN-000069,arithmetic_error,Gross does not equal net + VAT,116.04
+TXN-000437,arithmetic_error,Gross does not equal net + VAT,136.88
+TXN-000421,arithmetic_error,VAT amount does not equal net x rate,171.17
+TXN-001126,arithmetic_error,VAT amount does not equal net x rate,33.81
+TXN-000436,arithmetic_error,VAT amount does not equal net x rate,127.25
+TXN-001831,arithmetic_error,VAT amount does not equal net x rate,15.36
+TXN-000914,arithmetic_error,Gross does not equal net + VAT,110.01
+TXN-000004,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,528.57
+TXN-001267,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,459.52
+TXN-000910,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,2905.74
+TXN-001717,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,580.58
+TXN-001088,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,578.75
+TXN-000289,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,765.84
+TXN-000808,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,137.82
+TXN-001171,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,3062.02
+TXN-000576,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,316.93
+TXN-001947,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,446.83
+TXN-001172,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,343.59
+TXN-000628,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,671.71
+TXN-001906,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,630.02
+TXN-001828,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,3326.41
+TXN-000893,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,702.73
+TXN-000501,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,366.22
+TXN-001328,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,3491.94
+TXN-000717,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,960.0
+TXN-001952,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,633.55
+TXN-000474,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,1989.72
+TXN-001256,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,1336.95
+TXN-000450,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,167.52
+TXN-001325,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,578.91
+TXN-001433,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,277.1
+TXN-001157,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,1192.45
+TXN-001431,reverse_charge_misuse,VAT charged and claimed where the domestic reverse charge applies,526.77
+TXN-002001,duplicate_invoice,Duplicate of TXN-001227,74.29
+TXN-002002,duplicate_invoice,Duplicate of TXN-001524,12.69
+TXN-002003,duplicate_invoice,Duplicate of TXN-000219,93.26
+TXN-002004,duplicate_invoice,Duplicate of TXN-001700,82.99
+TXN-002005,duplicate_invoice,Duplicate of TXN-001095,28.01
+TXN-002006,duplicate_invoice,Duplicate of TXN-000227,9.48
+TXN-002007,duplicate_invoice,Duplicate of TXN-000067,97.7
+TXN-002008,duplicate_invoice,Duplicate of TXN-000376,111.99
+TXN-002009,duplicate_invoice,Duplicate of TXN-001340,26.37
+TXN-002010,duplicate_invoice,Duplicate of TXN-000194,481.49
+TXN-002011,duplicate_invoice,Duplicate of TXN-001233,13.99
+TXN-002012,duplicate_invoice,Duplicate of TXN-000353,43.78
+TXN-002013,duplicate_invoice,Duplicate of TXN-001286,122.08
+TXN-002014,duplicate_invoice,Duplicate of TXN-001887,467.11
+TXN-002015,duplicate_invoice,Duplicate of TXN-000932,1683.0
+TXN-002016,duplicate_invoice,Duplicate of TXN-001715,12.82
+TXN-002017,duplicate_invoice,Duplicate of TXN-001024,763.48
+TXN-002018,duplicate_invoice,Duplicate of TXN-000613,18.77
+TXN-002019,duplicate_invoice,Duplicate of TXN-001191,184.88
+TXN-002020,duplicate_invoice,Duplicate of TXN-001513,22.65
+TXN-002021,duplicate_invoice,Duplicate of TXN-001569,13.59
+TXN-002022,duplicate_invoice,Duplicate of TXN-000006,42.96
+TXN-002023,duplicate_invoice,Duplicate of TXN-000144,197.4
+TXN-002024,duplicate_invoice,Duplicate of TXN-000393,12.2
+TXN-002025,duplicate_invoice,Duplicate of TXN-001575,28.82
+TXN-002026,duplicate_invoice,Duplicate of TXN-000606,195.85
