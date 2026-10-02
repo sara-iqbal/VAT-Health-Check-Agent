@@ -2,7 +2,7 @@
 
 **A robot checker that reads every receipt a business has and flags the ones that look wrong.**
 
-[Live dashboard](https://YOUR-USERNAME.github.io/vat-health-check/) · [Run the notebook in Colab](notebooks/VAT_Health_Check.ipynb)
+[Live dashboard]([https://YOUR-USERNAME.github.io/vat-health-check/](https://sara-iqbal.github.io/VAT-Health-Check-Agent/))
 
 > All data is made up. This is a learning project, not tax advice.
 
